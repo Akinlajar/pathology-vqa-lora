@@ -1,0 +1,12 @@
+torch
+torchvision
+transformers
+peft
+datasets
+evaluate
+rouge_score
+nltk
+bert_score
+matplotlib
+numpy
+pandas
